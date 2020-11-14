@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ExcelMerger.exe" size="48128">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ExcelMerger.exe" size="49064">
       <assemblyIdentity name="ExcelMerger" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YncEmp8P5+7fQjJbWXaN9VWw5y1x7s9dz9BWu8795WQ=</dsig:DigestValue>
+        <dsig:DigestValue>xW/gunKLRvsz5FGLtK14TgJs8w8M+mJecw7uCGpDvNY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

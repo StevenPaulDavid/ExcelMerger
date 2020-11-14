@@ -26,3 +26,4 @@ C:\Development\ExcelMerger\ExcelMerger\bin\Debug\ExcelMerger.application
 C:\Development\ExcelMerger\ExcelMerger\obj\Debug\ExcelMerger.TrustInfo.xml
 C:\Development\ExcelMerger\ExcelMerger\obj\Debug\ExcelMerger.exe.manifest
 C:\Development\ExcelMerger\ExcelMerger\obj\Debug\ExcelMerger.application
+C:\Development\ExcelMerger\ExcelMerger\obj\Debug\ExcelMerger.csprojAssemblyReference.cache
