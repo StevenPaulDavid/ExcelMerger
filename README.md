@@ -19,5 +19,4 @@ Withn 24 hours I designed, planned and coded this simple excel merger, that take
 ## End Time
   14/11/2020 @ 18: 00
   
-## Challenge Outcome
-  ##   Failed - 25mins over the due time
+## Challenge Outcome:   Failed - 25mins over the due time
