@@ -21,3 +21,8 @@ C:\Development\ExcelMerger\ExcelMerger\bin\Debug\ExcelDataReader.xml
 C:\Development\ExcelMerger\ExcelMerger\bin\Debug\ExcelDataReader.DataSet.dll
 C:\Development\ExcelMerger\ExcelMerger\bin\Debug\ExcelDataReader.DataSet.pdb
 C:\Development\ExcelMerger\ExcelMerger\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Development\ExcelMerger\ExcelMerger\bin\Debug\ExcelMerger.exe.manifest
+C:\Development\ExcelMerger\ExcelMerger\bin\Debug\ExcelMerger.application
+C:\Development\ExcelMerger\ExcelMerger\obj\Debug\ExcelMerger.TrustInfo.xml
+C:\Development\ExcelMerger\ExcelMerger\obj\Debug\ExcelMerger.exe.manifest
+C:\Development\ExcelMerger\ExcelMerger\obj\Debug\ExcelMerger.application
